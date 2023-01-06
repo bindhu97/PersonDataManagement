@@ -1,0 +1,15 @@
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\net6.0\PersonDataManagement.exe
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\net6.0\PersonDataManagement.deps.json
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\net6.0\PersonDataManagement.runtimeconfig.json
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\net6.0\PersonDataManagement.dll
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\net6.0\PersonDataManagement.pdb
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.csproj.AssemblyReference.cache
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.AssemblyInfoInputs.cache
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.AssemblyInfo.cs
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.dll
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\refint\PersonDataManagement.dll
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.pdb
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\PersonDataManagement.genruntimeconfig.cache
+C:\Users\91973\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\net6.0\ref\PersonDataManagement.dll
