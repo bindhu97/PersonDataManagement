@@ -24,5 +24,10 @@ namespace PersonDataManagement
                 Console.WriteLine(result.SSN);
             }
         }
+        public void AverageAge(List<Person> person)
+        {
+            var data = person.Average(x => x.Age);
+            Console.WriteLine(data);
+        }
     }
 }
